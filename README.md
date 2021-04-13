@@ -2,6 +2,7 @@
 
 Two of the major problems of our Indian society are cleanliness (rather the lack thereof) and the deteriorating health of our citizens. \
 Clean Fit tries to solve both these problems.
+A project by: Daksh Gupta, Dhruv Atreja, Pranay Kothari, Yash Sethia
 
 ## The problem Clean-Fit solves
 Two of the major problems of our Indian society are cleanliness (rather the lack thereof) and the deteriorating health of our citizens. 
